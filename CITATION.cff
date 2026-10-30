@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Machine Learning Prediction of Skilled Birth Attendance in Mozambique"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "TBD"
+    given-names: "TBD"
+    affiliation: "TBD"
+identifiers:
+  - type: doi
+    value: "TBD"
+repository-code: "https://github.com/muhammadsalek/Mozambique-SBA-Machine-Learning"
+url: "https://github.com/muhammadsalek/Mozambique-SBA-Machine-Learning"
+license: "MIT"
+version: "TBD"
+date-released: "TBD"
+abstract: >-
+  Publication scaffold for an R-based machine-learning study of skilled birth attendance
+  in Mozambique using DHS 2022–2023 data. Methodological statements require confirmation
+  against original analysis scripts.
+keywords:
+  - "maternal health"
+  - "skilled birth attendance"
+  - "Mozambique"
+  - "DHS"
+  - "machine learning"
+preferred-citation:
+  type: article
+  title: "TBD"
+  authors:
+    - family-names: "TBD"
+      given-names: "TBD"
+  journal: "TBD"
+  year: "TBD"
+  volume: "TBD"
+  issue: "TBD"
+  start: "TBD"
+  end: "TBD"
+  doi: "TBD"
